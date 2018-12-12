@@ -56,6 +56,7 @@ Install the Expo command line tool by running this command in your terminal:
 	
 ### Expo permission problem
 	sudo rm -r ~/.expo
+	fuc
 	
 ## Resources
 
@@ -129,5 +130,6 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 - [Stanford CS 47SI | Cross-Platform Mobile Development ](https://web.stanford.edu/class/cs47si/)
 - [Harvard CS50 Mobile | Mobile App Development with React Native](https://cs50.github.io/mobile/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDQwODIyMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5MTEwMjM4ODgsLTEwNDQwODIyMTZdfQ
+==
 -->
