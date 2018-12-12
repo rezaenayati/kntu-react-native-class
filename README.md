@@ -53,8 +53,11 @@ Install the Expo command line tool by running this command in your terminal:
 	expo init [project_name]
 	cd [project_name]
 	expo start
-	
-### Initiate and start a project using Expo## Resources
+### Expo permission problem
+s
+ `sudo rm -r ~/.expo`		
+
+## Resources
 
 ### React
 
@@ -126,5 +129,5 @@ GitHub Inc. is a web-based hosting service for version control using Git. It is 
 - [Stanford CS 47SI | Cross-Platform Mobile Development ](https://web.stanford.edu/class/cs47si/)
 - [Harvard CS50 Mobile | Mobile App Development with React Native](https://cs50.github.io/mobile/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjAxMzQyMl19
+eyJoaXN0b3J5IjpbLTkyNTQ3NDc2N119
 -->
